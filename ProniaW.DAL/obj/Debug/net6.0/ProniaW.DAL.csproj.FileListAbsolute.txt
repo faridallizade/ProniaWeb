@@ -1,0 +1,15 @@
+C:\Users\Asus\Desktop\C#\ProniaW\ProniaW.DAL\bin\Debug\net6.0\ProniaW.DAL.deps.json
+C:\Users\Asus\Desktop\C#\ProniaW\ProniaW.DAL\bin\Debug\net6.0\ProniaW.DAL.dll
+C:\Users\Asus\Desktop\C#\ProniaW\ProniaW.DAL\bin\Debug\net6.0\ProniaW.DAL.pdb
+C:\Users\Asus\Desktop\C#\ProniaW\ProniaW.DAL\bin\Debug\net6.0\ProniaW.Core.dll
+C:\Users\Asus\Desktop\C#\ProniaW\ProniaW.DAL\bin\Debug\net6.0\ProniaW.Core.pdb
+C:\Users\Asus\Desktop\C#\ProniaW\ProniaW.DAL\obj\Debug\net6.0\ProniaW.DAL.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\C#\ProniaW\ProniaW.DAL\obj\Debug\net6.0\ProniaW.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\C#\ProniaW\ProniaW.DAL\obj\Debug\net6.0\ProniaW.DAL.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\C#\ProniaW\ProniaW.DAL\obj\Debug\net6.0\ProniaW.DAL.AssemblyInfo.cs
+C:\Users\Asus\Desktop\C#\ProniaW\ProniaW.DAL\obj\Debug\net6.0\ProniaW.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\C#\ProniaW\ProniaW.DAL\obj\Debug\net6.0\ProniaW.DAL.csproj.CopyComplete
+C:\Users\Asus\Desktop\C#\ProniaW\ProniaW.DAL\obj\Debug\net6.0\ProniaW.DAL.dll
+C:\Users\Asus\Desktop\C#\ProniaW\ProniaW.DAL\obj\Debug\net6.0\refint\ProniaW.DAL.dll
+C:\Users\Asus\Desktop\C#\ProniaW\ProniaW.DAL\obj\Debug\net6.0\ProniaW.DAL.pdb
+C:\Users\Asus\Desktop\C#\ProniaW\ProniaW.DAL\obj\Debug\net6.0\ref\ProniaW.DAL.dll

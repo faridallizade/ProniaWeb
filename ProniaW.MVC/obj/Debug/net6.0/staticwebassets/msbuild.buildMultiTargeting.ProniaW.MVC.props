@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ProniaW.MVC.props" />
+</Project>

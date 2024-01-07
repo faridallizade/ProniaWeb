@@ -1,0 +1,11 @@
+C:\Users\Asus\Desktop\C#\ProniaW\ProniaW.Core\bin\Debug\net6.0\ProniaW.Core.deps.json
+C:\Users\Asus\Desktop\C#\ProniaW\ProniaW.Core\bin\Debug\net6.0\ProniaW.Core.dll
+C:\Users\Asus\Desktop\C#\ProniaW\ProniaW.Core\bin\Debug\net6.0\ProniaW.Core.pdb
+C:\Users\Asus\Desktop\C#\ProniaW\ProniaW.Core\obj\Debug\net6.0\ProniaW.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\C#\ProniaW\ProniaW.Core\obj\Debug\net6.0\ProniaW.Core.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\C#\ProniaW\ProniaW.Core\obj\Debug\net6.0\ProniaW.Core.AssemblyInfo.cs
+C:\Users\Asus\Desktop\C#\ProniaW\ProniaW.Core\obj\Debug\net6.0\ProniaW.Core.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\C#\ProniaW\ProniaW.Core\obj\Debug\net6.0\ProniaW.Core.dll
+C:\Users\Asus\Desktop\C#\ProniaW\ProniaW.Core\obj\Debug\net6.0\refint\ProniaW.Core.dll
+C:\Users\Asus\Desktop\C#\ProniaW\ProniaW.Core\obj\Debug\net6.0\ProniaW.Core.pdb
+C:\Users\Asus\Desktop\C#\ProniaW\ProniaW.Core\obj\Debug\net6.0\ref\ProniaW.Core.dll
